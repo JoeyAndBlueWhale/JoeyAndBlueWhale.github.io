@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>master | Joey&#39;s Homepage</title>
+    <link>https://JoeyAndBlueWhale.github.io/tags/master/</link>
+      <atom:link href="https://JoeyAndBlueWhale.github.io/tags/master/index.xml" rel="self" type="application/rss+xml" />
+    <description>master</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://JoeyAndBlueWhale.github.io/img/icon-512.png</url>
+      <title>master</title>
+      <link>https://JoeyAndBlueWhale.github.io/tags/master/</link>
+    </image>
+    
+    <item>
+      <title>Private Sequential Learning</title>
+      <link>https://JoeyAndBlueWhale.github.io/project/privatesequentiallearning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://JoeyAndBlueWhale.github.io/project/privatesequentiallearning/</guid>
+      <description>&lt;p&gt;The query complexity of the learner in the presence of an adversary is investigated in Tsitsiklis et al. In this work, it is assumed that the adversary gets to observe all the learners queries but is oblivious to the responses that the learner gets for each query. Tsitsiklis et al also introduces the same problem under the bayesian setting and provides bounds on the query complexity when operating under a uniform prior over the queried values. We provide tighter bounds for this case thus managing to improve both the upper and lower bound on the query complexity. For the upper bound, we propose a new algorithm that is better than replicated bisection search under certain assumptions of the value of parameters. In addition we improve the lower bound with an additive factor. We also investigate the private query model in higher dimension, which is mentioned as one of the open problems in Tsitsiklis et al. We successfully extend the opportunistic bisection strategy to higher dimension and derive an upper bound based on the strategy. We use the same method as in Tsitsiklis et al to prove the lower bound with a strengthened accuracy constraint and derive a less tighter lower bound with the original accuracy constraint.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Replicating and Improving the Prediction of Antidepressant Response Using the CAN-BIND and STAR*D Datasets</title>
+      <link>https://JoeyAndBlueWhale.github.io/project/antidep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://JoeyAndBlueWhale.github.io/project/antidep/</guid>
+      <description>&lt;p&gt;This is a course project led by a medical student. We replicated a study using ML algorithms for the prediction of antidepressant response on a new dataset and tested various new ML models on this task. I implemented all the ML models. We have already submitted the paper to a medical journal. The project report is not published here due to confidentiality of the medical dataset used.&lt;/p&gt;
+&lt;p&gt;Major depressive disorder (MDD) is the second-leading cause of disability globally. This depressive disorder is marked by low mood, anhedonia (inability to experience joy) and neurovegetative symptoms such as low energy, poor concentration, and over- or under-sleeping. The condition can affects all aspects of life, from hampering or even preventing work, to increasing mortality from other medical conditions. Understandably, depression is a common reason to access healthcare, and is associated with significant healthcare costs.&lt;/p&gt;
+&lt;p&gt;The mainstay and first-line therapy physicians use for MDD remains prescribing an antidepressant, a variety of medications of different mechanisms. While effective, only a little over half of patients will respond to this initial therapy, and many will need to try a different agent. Many options are available for patients who do not respond to initial treatment with an antidepressant, though it can takes months of trial and error until these options are attempted.&lt;/p&gt;
+&lt;p&gt;This presents a promising application for predictive modelling. If a patient can be predicted to have a high chance of not responding to treatment with an antidepressant, treatment outcomes may be improved by giving these patients more aggressive therapy sooner. For example, a high-risk patient might benefit from having a second, adjunctive medication right away, or may be prioritized to also engage in psychotherapy (counselling). Both have been shown to increase depression response rates, but have barriers to be used widely such as costs or side-effects.&lt;/p&gt;
+&lt;p&gt;Our projects seeks to continue this work improving the prediction of antidepressant response from clinical data. We do this in three ways: creating a reproducible, transparent, and reusable automated method for data processing, replicating the recent work by Nie et al. and externally validating their model on a new dataset, and by testing new, previously unpublished methods for both prediction and feature selection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

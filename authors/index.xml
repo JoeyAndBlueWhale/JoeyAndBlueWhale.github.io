@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Joey&#39;s Homepage</title>
+    <link>https://JoeyAndBlueWhale.github.io/authors/</link>
+      <atom:link href="https://JoeyAndBlueWhale.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://JoeyAndBlueWhale.github.io/img/icon-512.png</url>
+      <title>Authors</title>
+      <link>https://JoeyAndBlueWhale.github.io/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

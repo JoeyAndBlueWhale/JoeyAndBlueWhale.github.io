@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Joey&#39;s Homepage</title>
+    <link>https://JoeyAndBlueWhale.github.io/publication/</link>
+      <atom:link href="https://JoeyAndBlueWhale.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://JoeyAndBlueWhale.github.io/img/icon-512.png</url>
+      <title>Publications</title>
+      <link>https://JoeyAndBlueWhale.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Regret Bounds without Lipschitz Continuity: Online Learning with Relative-Lipschitz Losses (NeurIPS 2020)</title>
+      <link>https://JoeyAndBlueWhale.github.io/publication/relativelip/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://JoeyAndBlueWhale.github.io/publication/relativelip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved Analyses of Block-Coordinate Descent for Linearly-Constrained, Composite Objectives</title>
+      <link>https://JoeyAndBlueWhale.github.io/publication/coordinatedescent/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://JoeyAndBlueWhale.github.io/publication/coordinatedescent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication of Machine-Learning Analyses to Predict Response to Antidepressant Medications in Patients with Major Depressive Disorder</title>
+      <link>https://JoeyAndBlueWhale.github.io/publication/antidepressant/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://JoeyAndBlueWhale.github.io/publication/antidepressant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
