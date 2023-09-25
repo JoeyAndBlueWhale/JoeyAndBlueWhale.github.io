@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joey&#39;s Homepage</title>
+    <link>https://joeyandbluewhale.github.io/</link>
+      <atom:link href="https://joeyandbluewhale.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joey&#39;s Homepage</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://joeyandbluewhale.github.io/media/icon_hua235b20c26de23a006d4e436991121ab_1867_512x512_fill_lanczos_center_3.png</url>
+      <title>Joey&#39;s Homepage</title>
+      <link>https://joeyandbluewhale.github.io/</link>
+    </image>
+    
+    <item>
+      <title>A Competitive Algorithm for Agnostic Active Learning (NeurIPS 2023)</title>
+      <link>https://joeyandbluewhale.github.io/publication/activebiclass/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://joeyandbluewhale.github.io/publication/activebiclass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing and Improving Greedy 2-Coordinate Updates For Equality-Constrained Optimization via Steepest Descent in the 1-Norm</title>
+      <link>https://joeyandbluewhale.github.io/publication/coordinatedescent/</link>
+      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://joeyandbluewhale.github.io/publication/coordinatedescent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regret Bounds without Lipschitz Continuity: Online Learning with Relative-Lipschitz Losses (NeurIPS 2020)</title>
+      <link>https://joeyandbluewhale.github.io/publication/relativelip/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://joeyandbluewhale.github.io/publication/relativelip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replication of machine learning methods to predict treatment outcome with antidepressant medications in patients with major depressive disorder from STAR*D and CAN-BIND-1 (PLOS ONE)</title>
+      <link>https://joeyandbluewhale.github.io/publication/antidepressant/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://joeyandbluewhale.github.io/publication/antidepressant/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
